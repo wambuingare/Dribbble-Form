@@ -1,0 +1,95 @@
+body{
+  background-image:linear-gradient(to right, rgb(255, 255, 130),rgb(238, 117, 238))
+  
+}
+.box{
+  border: 1px;
+  background-color: rgb(255, 199, 94);
+  display: flexbox;
+  padding: 1%;
+  width: 150px;
+  height: 260px;
+  margin-top: 6%;
+  margin-left: 50px;
+}
+.dribble{
+  border: 1px;
+  background-color: rgb(245, 191, 91);
+  display: flexbox;
+  padding: 1%
+}
+ .dribbble h2{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 100;
+  font: size -0.5px;
+ 
+} 
+.sign-up{
+border: 1px solid white;
+background-color: white;
+display:flex;
+padding: 15%;
+ width: 400px;
+ height: 229px;
+ margin-bottom: -580px; 
+ margin-top: -274px; 
+ margin-left: 102%;
+}
+.form{
+  padding: 10%;
+}
+.firstgroup{
+  margin-left: 250px;
+  position: relative;
+  top: -240px;
+  display: flex;
+font-size: xx-small;
+
+}
+#create{
+  background-color: rgb(199, 43, 43);
+  color: aliceblue;
+  padding: 5px 15px 5px 15px;
+  font-size: x-small;
+}
+#sign{
+  background-color: rgb(76, 76, 240);
+  color: aliceblue;
+  width: 80px;
+  font-size: xx-small;
+}
+.Fullname{
+  display: flex;
+}
+.Fullname input{
+  width: 15%;
+  height: 8%;
+  margin-right: 30%;
+  margin: 3%;
+}
+.h3{
+font-size: xx-small;
+font-weight: lighter;
+}
+.dribbble h6{
+  font-size: 5%;
+  font-weight: lighter;
+  font-style: italic;
+}
+.Art h6{
+  font-size: 6%;
+}
+.sign{
+font-size: 10%;
+margin-left: 83%;
+}
+.twitter i {
+  font-size: 15px;
+  color: darkblue;
+  margin-left: 20%;
+}
+.fb{
+  font-size: 15px;
+  color: darkblue;
+  
+}
